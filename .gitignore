@@ -1,0 +1,7 @@
+*.pyc
+venv
+.idea
+config/ssh.yaml
+config/mail_log_downloader.service
+logs
+files
